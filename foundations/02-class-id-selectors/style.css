@@ -1,0 +1,19 @@
+.class1, .class3 {
+    background-color: rgb(228, 149, 161);
+    font-family: Verdana, DejaVu Sans, Tahoma, sans-serif ;
+}
+
+#div2 {
+    color: rgb(26, 94, 139);
+    font-size: 36px;
+}
+
+.class3 {
+    font-size: 24px;
+}
+
+#div4 {
+    font-size: 24px;
+    background-color: rgb(73, 180, 87);
+    font-weight: bold;
+}
